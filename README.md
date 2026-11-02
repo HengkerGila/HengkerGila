@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img
-    src="https://i.pinimg.com/736x/e0/41/91/e04191acea70d71de14584796ef41d74.jpg"
+    src="https://i.pinimg.com/736x/04/35/b3/0435b38e18a90063cab8f9d1ee789efa.jpg"
     alt="banner"
     width="200"
     height="auto"
@@ -18,7 +18,11 @@
 - I like banana
 - Feel free to visit my page below twin!
 
-<br>
+<p align="center">
+  <i>Stay Strong Twin!</i>
+</p>
+
+
 
 <div align="center">
   <a href="https://linkedin.com/in/rafilafirmansyah" target="_blank">
@@ -26,4 +30,3 @@
   </a>
 </div>
 
-<hr>
