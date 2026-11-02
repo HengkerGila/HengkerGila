@@ -14,7 +14,7 @@
 # About Me
 nothing are to be discussed about me twin!
 - I like banana
-- I love multidiciplinary subjects!
+- I love Octopath Traveler II
 
 # What i do?
 
