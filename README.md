@@ -11,12 +11,15 @@
   />
 </h1>
 
+# About Me
+nothing are to be discussed about me twin!
+- I like banana
+- I love multidiciplinary subjects!
 
-### I Like verilog
+# What i do?
 
 - Currently working on Embedded telecommunication systems
-- I like banana
-- Feel free to visit my page below twin!
+- I also happened to be battling with my inner thoughts
 
 <p align="center">
   <i>Stay Strong Twin!</i>
@@ -24,9 +27,4 @@
 
 
 
-<div align="center">
-  <a href="https://linkedin.com/in/rafilafirmansyah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
 
