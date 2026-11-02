@@ -1,17 +1,29 @@
-## Hi
+<p align="center">
+  <i>Hi Twin!, Welcome to my profile</i>
+</p>
 
-<!--
-**HengkerGila/HengkerGila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img
+    src="https://i.pinimg.com/736x/e0/41/91/e04191acea70d71de14584796ef41d74.jpg"
+    alt="banner"
+    width="200"
+    height="auto"
+  />
+</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# I Like verilog
+### I Like verilog
+
+- Currently working on Embedded telecommunication systems
+- I like banana
+- Feel free to visit my page below twin!
+
+<br>
+
+<div align="center">
+  <a href="https://linkedin.com/in/rafilafirmansyah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
